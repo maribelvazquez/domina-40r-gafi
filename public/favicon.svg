@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#a663cc"/>
+  <text x="50" y="58" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="white">40R</text>
+  <text x="50" y="75" text-anchor="middle" font-family="Arial" font-size="12" fill="white">GAFI</text>
+</svg>
