@@ -1017,14 +1017,14 @@ const Consulta40R = () => {
       {/* Link a documento oficial */}
       <div className="pt-2 border-t" style={{ borderColor: '#eee' }}>
         <a
-          href="https://www.gafilat.org/index.php/es/biblioteca-virtual/gafilat/documentos-de-interes-702/publicaciones-698/4161-40-recomendaciones-del-gafi-febrero-2023/file"
+          href="https://biblioteca.gafilat.org/?p=7500"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 w-full p-3 rounded-lg font-semibold text-sm transition-all hover:opacity-90"
           style={{ backgroundColor: '#f8f4fc', color: '#a663cc', border: '2px solid #a663cc' }}
         >
           <BookOpen size={18} />
-          Ver documento oficial GAFILAT (PDF)
+          Ver documento oficial GAFILAT
           <ExternalLink size={14} />
         </a>
       </div>
